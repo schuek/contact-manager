@@ -1,17 +1,24 @@
-# Gestor de Contactos
-Aplicación CRUD hecha con HTML, CSS y JavaScript que permite crear, editar, eliminar y listar contactos.
-
-## Tecnologías
-- HTML
-- CSS
-- JavaScript (DOM)
-- LocalStorage
+# Contact Manager  
+Mini gestor de contactos hecho con JavaScript. Permite añadir, listar y eliminar contactos almacenados en el navegador.
 
 ## Funcionalidades
-- Crear contactos
-- Editar contactos
-- Eliminar contactos
-- Buscar por nombre
+- Añadir un contacto (nombre, email, teléfono, etc.).
+- Listar contactos en pantalla.
+- Eliminar contactos individuales.
+- Almacenamiento con LocalStorage para mantener datos.
 
-## Aprendizaje
-Este proyecto me ayudó a consolidar manipulación del DOM y almacenamiento local.
+## Tecnologías
+- HTML  
+- CSS  
+- JavaScript (DOM + LocalStorage)
+
+## Qué aprendí
+- CRUD básico en Frontend.
+- Manipulación avanzada del DOM.
+- Organización de datos en LocalStorage.
+- Estructuración de funciones para proyectos pequeños.
+
+## Cómo usarlo
+1. Abrir `index.html`
+2. Completar los campos del formulario
+3. Guardar y gestionar contactos
